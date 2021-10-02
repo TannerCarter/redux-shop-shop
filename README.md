@@ -1,7 +1,7 @@
 # Redux Shop Shop
 
 # Description
-A web application store that uses a redux provider to select items you would like to purchase using stripe at checkout.
+A web application store that lets you select items to add into your cart and purchase using stripe at checkout.
 
 # User Story
 
