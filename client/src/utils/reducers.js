@@ -12,7 +12,7 @@ import {
 } from "./actions";
 
 //initialState order by cases
-initialState = {
+const initialState = {
   products: [],
   cart: [],
   cartOpen: false,
