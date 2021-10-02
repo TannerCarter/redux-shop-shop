@@ -1,7 +1,7 @@
 # Redux Shop Shop
 
 # Description
-A web application that will be 
+A web application store that uses a redux provider to select items you would like to purchase using stripe at checkout.
 
 # User Story
 
@@ -38,11 +38,11 @@ A web application that will be
 - Apollo-server-express
 - Bcrypt
 - Jsonwebtoken 
-- Bootstrap
+
 
 # Links
 
-
+<img src="https://user-images.githubusercontent.com/80929740/135701942-cb927dfe-1434-4242-a8b4-a95d975bc96b.png" width="600" height="400" alt="Screen shot of Tanner Carter's Shop Shop"/>
 
 [View Live on Heroku](https://redux-shop-shop-state.herokuapp.com/)
 
